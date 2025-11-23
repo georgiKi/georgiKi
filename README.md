@@ -6,7 +6,7 @@ I'm a **Senior Frontend Developer & Design Systems Engineer** based in Sweden. I
 
 - Building a new code integration platform inspired by CDN architectures, with pull-request features and deep developer UX.
 - Architecting and maintaining enterprise-level design systems at **Dustin Group**
-- Passion for integrating AI into frontend workflows
+- Integrating AI into frontend workflows
 
 ## 🧩 What I Do
 
