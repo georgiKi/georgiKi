@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👋 Hi, I'm Georgi
 
-<!--
-**georgiKi/georgiKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Frontend Developer & Design Systems Engineer** based in Sweden. I specialize in building scalable, accessible, and maintainable UIs for enterprise platforms. My primary focus is on **design tokens, component architecture, and design-to-code workflows**.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a new code integration platform inspired by CDN architectures, with pull-request features and deep developer UX.
+- Architecting and maintaining enterprise-level design systems at **Dustin Group**
+- Passion for integrating AI into frontend workflows
+
+## 🧩 What I Do
+
+- **Design Systems & Tokens:**  
+  Style Dictionary, cross-platform token transformation, accessibility, documentation, Storybook
+- **Frontend Development:**  
+  React, TypeScript, Next.js, Stencil.js, CSS/SCSS, component-driven development, monorepo management
+- **DevOps & Tooling:**  
+  CI/CD pipelines, Docker, monitoring (New Relic, AWS), developer tooling and automation
+- **Knowledge Sharing:**  
+  Documentation, pair programming, code reviews, and open-source contributions
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** TypeScript, JavaScript, CSS/SCSS, Node.js
+- **Frameworks:** React, Next.js, Angular, Stencil.js
+- **Platforms:** Neovim, Figma, Storybook
+- **Cloud:** AWS, Docker, CI/CD
+
+## 📚 Interests & Learning
+
+- Design systems evolution & component standards
+- E-reader devices (reMarkable), digital planners
+- Developer productivity, automation, AI/ML in frontend
